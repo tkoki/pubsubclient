@@ -1,1 +1,0 @@
-idf_component_register(INCLUDE_DIRS src SRCS src/PubSubClient.cpp REQUIRES arduino)
